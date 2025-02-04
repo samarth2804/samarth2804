@@ -204,8 +204,8 @@ I'm a **Software Engineer** specializing in **Backend Development** and **Micros
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=samarth2804&" alt="samarth2804" /></p>
 
 ## 🌍 Connect With Me
+<p>If you're interested in collaborating on a project or just want to chat about technology, feel free to reach out to me.</p>
 <p align="left">
-  If you're interested in collaborating on a project or just want to chat about technology, feel free to reach out to me
 <a href="https://linkedin.com/in/samarth2804" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 <a href="https://github.com/samarth2804" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
 <a href="https://leetcode.com/Electron007" target="_blank"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/></a>
