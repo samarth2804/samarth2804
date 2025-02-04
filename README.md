@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Samarth Verma</h1>
-<h3 align="center">Software Engineer | Backend Specialist | Microservices Architect</h3>
+<h3 align="center">Software Engineer | Backend Specialist </h3>
 
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=samarth2804&label=Profile%20views&color=0e75b6&style=flat" alt="samarth2804" /> 
