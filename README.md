@@ -195,13 +195,17 @@ I'm a **Software Engineer** specializing in **Backend Development** and **Micros
 🎯 **Runner-up at District Science Exhibition** for an automated car parking system
 
 ## 📈 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=samarth2804&show_icons=true&theme=dark" alt="GitHub Stats" width="400" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=samarth2804&theme=dark" alt="GitHub Streak" width="400" />
+<p align="left">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=samarth2804&show_icons=true&locale=en&layout=compact" alt="samarth2804" />
 </p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=samarth2804&show_icons=true&locale=en" alt="samarth2804" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=samarth2804&" alt="samarth2804" /></p>
 
 ## 🌍 Connect With Me
 <p align="left">
+  If you're interested in collaborating on a project or just want to chat about technology, feel free to reach out to me
 <a href="https://linkedin.com/in/samarth2804" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 <a href="https://github.com/samarth2804" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
 <a href="https://leetcode.com/Electron007" target="_blank"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/></a>
